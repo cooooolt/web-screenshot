@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+.pnp
+.pnp.*
+
+# debug logs
+npm-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# env files
+.env*
